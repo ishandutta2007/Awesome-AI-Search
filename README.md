@@ -19,7 +19,7 @@
 
 ---
 
-[📖 Overview](#-sector-overview--market-dynamics) • [🏢 SaaS & Cloud Platforms](#-enterprise--saas-ai-search-platforms) • [🔓 Open-Source Search](#-open-source-ai-search-engines--frameworks) • [💡 Key Concepts](#-key-technologies--architectures) • [🤝 Contributing](#-contributing)
+[📖 Overview](#-sector-overview--market-dynamics) • [🏢 SaaS & Cloud Platforms](#-enterprise--saas-ai-search-platforms) • [🔓 Open-Source Search](#-open-source-ai-search-engines--frameworks) • [💡 Key Concepts](#-key-technologies--architectures) • [💖 Support](#-support) • [⭐ Star History](#-star-history) • [🤝 Contributing](#-contributing)
 
 ---
 
@@ -31,6 +31,8 @@
 - [🏢 Enterprise & SaaS AI Search Platforms](#-enterprise--saas-ai-search-platforms)
 - [🔓 Open-Source AI Search Engines & Frameworks](#-open-source-ai-search-engines--frameworks)
 - [💡 Key Technologies & Architectures](#-key-technologies--architectures)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 
@@ -103,6 +105,22 @@ Contributions are always welcome! 💖
 3. 💾 Commit your changes (`git commit -m 'feat: add exciting AI search project'`).
 4. 🚀 Push to the branch (`git push origin feature/awesome-addition`).
 5. 📬 Open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for exploring **Awesome AI Search**! If this repository helped you discover search technologies, compare enterprise solutions, or accelerate your AI projects, please consider supporting its ongoing curation and development:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** by suggesting new engines, features, and corrections.
+- 📢 **Share with your network** on X/Twitter, LinkedIn, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back this work financially, visit my [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) — every bit of support is deeply appreciated!
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Search&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Search&type=date&legend=top-left)
 
 ---
 
